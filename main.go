@@ -15,5 +15,9 @@ func main() {
 	// inputStr arrayString
 	inputArr := []string{"Abc", "bCd"}
 	soalDua.Jawab(inputArr)
+	inputArr = []string{"Oke", "One"}
+	soalDua.Jawab(inputArr)
+	inputArr = []string{"Pendanaan", "Terproteksi", "Untuk", "Dampak", "Berarti"}
+	soalDua.Jawab(inputArr)
 
 }
